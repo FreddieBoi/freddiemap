@@ -1,0 +1,9 @@
+html,
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#freddiemap {
+    height: 480px;
+    width: 640px;
+}
